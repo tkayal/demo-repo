@@ -5,4 +5,4 @@ add desription!!!
 2.Read the file carefully before you continue the installation
 3.Test123456789
 4.test1234567
-5. new feature configured
+5.new feature configured
